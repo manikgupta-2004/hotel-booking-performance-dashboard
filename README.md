@@ -47,6 +47,10 @@ The dashboard enables users to:
 - Business Analytics
 - KPI Analysis
 
+## Dashboard Preview
+
+![Hotel Booking Performance Dashboard](dashboard_screenshot.png)
+
 ## Live Dashboard
 
 [View Interactive Dashboard](https://datastudio.google.com/u/0/reporting/be31e006-ddef-418d-9b5f-4bf932e824d4/page/murjF)
